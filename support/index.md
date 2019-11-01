@@ -1,12 +1,12 @@
 [title]: # (Support)
-[tags]: # (Privileged Behavior Analytics,PBA,)
+[tags]: # (Privileged Behavior Analytics,PBA,Support)
 [priority]: # (7000)
 
 # Support
 
-PBA subscribers have access to support by phone and email. You also can open a case in Thycotic’s support ticketing system, which promotes follow-through to issue resolution.
+PBA subscribers have access to support by phone and email. You also can open a case in Thycoticâ€™s support ticketing system, which promotes follow-through to issue resolution.
 
-* Use the means you prefer, except for Severity 1 issues—for those, always use phone support.
+* Use the means you prefer, except for Severity 1 issuesâ€”for those, always use phone support.
 
   Severity 1 means a critical problem that has caused *complete loss of service* and work cannot reasonably continue at your worksite.
 
@@ -62,4 +62,3 @@ As an alternative to support by email or phone, you can open a support ticket an
 * After logging in, you will be on the main page. Click the **Cases** tab, then **Create a Case**.
 
 * Follow the instructions to complete your case.
-
