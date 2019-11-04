@@ -1,5 +1,5 @@
-[title]: # (PBA Operations)
-[tags]: # (Privileged Behavior Analytics,PBA,)
+[title]: # (Secret Access Clock)
+[tags]: # (Privileged Behavior Analytics,PBA,Operations,Secret Access Clock)
 [priority]: # (4050)
 
 # Secret Access Clock

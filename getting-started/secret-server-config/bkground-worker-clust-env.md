@@ -1,4 +1,4 @@
-[title]: # (Getting Started)
+[title]: # (Background Worker)
 [tags]: # (Privileged Behavior Analytics,PBA,Background Worker,Cluster)
 [priority]: # (3060)
 

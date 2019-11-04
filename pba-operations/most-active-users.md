@@ -1,5 +1,5 @@
-[title]: # (PBA Operations)
-[tags]: # (Privileged Behavior Analytics,PBA,Most Active)
+[title]: # (Most Active Users)
+[tags]: # (Privileged Behavior Analytics,PBA,Operations,Most Active,Rank,50 Users)
 [priority]: # (4070)
 
 # Most Active Users
@@ -8,7 +8,7 @@ Most Active Users ranks the top 50 most active Users in your Secret Server envir
 
 ![alt](images/1f6cc14f180155df46dfa451c130fd74.jpg)
 
-The list contains the User Name, Display Name, and number of Secrets accessed, with a bar chart as visual reference.
+The list contains the User Name, Display Name, and number of Accesses to Secrets, with a bar chart as visual reference.
 
 * By default, you will see the top 50 Users in your Secret Server environment for the past month.
 * You can further filter the list by a Secret or specific timeframe.

@@ -1,5 +1,5 @@
-[title]: # (PBA Operations)
-[tags]: # (Privileged Behavior Analytics,PBA,)
+[title]: # (User Details)
+[tags]: # (Privileged Behavior Analytics,PBA,Operations,User Details)
 [priority]: # (4090)
 
 # User Details

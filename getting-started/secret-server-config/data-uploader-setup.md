@@ -74,7 +74,7 @@ When the configuration is saved and PBA is set to enabled, the configuration is 
 
 For Secret Server Installed Version 10.4 and for Secret Server Cloud, event data is uploaded to PBA via queues and micro-loading, and is closer to real-time. Prior versions of Secret Server data upload followed the more typical data warehouse design of file upload and small batch-loading.
 
-### Special Case: PBS Already Enabled
+### Special Case: PBA Already Enabled
 
 If PBA was already enabled in Secret Server prior to upgrading to version 10.4.000000 or later, you must copy the integration key from PBA to Secret Server in order to enable Single Sign On.
 

@@ -1,4 +1,4 @@
-[title]: # (Getting Started)
+[title]: # (PBA Configuration)
 [tags]: # (Privileged Behavior Analytics,PBA,)
 [priority]: # (3070)
 

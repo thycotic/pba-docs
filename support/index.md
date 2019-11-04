@@ -24,12 +24,9 @@ Thycotic delivers support by phone worldwide. Select the applicable number from 
 
 | **Region** | **Country** | **Support Number** |
 |------------|-------------|--------------------|
-|            |             |                    |
 | AMERICAS   | all         | \+1 202 991 0540   |
-|            |             |                    |
 | EMEA       | UK          | \+44 20 3880 0017  |
 |            | Germany     | \+49 69 6677 37597 |
-|            |             |                    |
 | APAC       | Australia   | \+61 3 8595 5827   |
 |            | Philippines | \+63 2 231 3885    |
 |            | New Zealand | \+64 9-887 4015    |
