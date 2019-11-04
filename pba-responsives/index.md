@@ -19,11 +19,11 @@ Each PBA user may set an email and choose to be notified when an event occurs. U
 
 ## Access Challenges
 
-Access Challenges provide automated responses in Secret Server to PBA events.
+Access Challenges provide automated responses in Secret Server to PBA events. They allow for the dynamic configuration of the trust level in the Secret Access Workflow which is built into Secret Server.
 
-* Access Challenges allow for the dynamic configuration of the trust level in the Secret Access Workflow which is built into Secret Server.
-  * For example, it may be infeasible to configure Session Recording on every Secret (disk space and CPU limitations) and it may be considered onerous to configure the Approval workflow on every Secret (administrators become desensitized to approving access to every single request).
-    With Access Challenges, however, these workflows can be enabled dynamically when a user’s behavior has become suspicious, helping to ease the tension operationally between security and efficiency.
+* For example, it may be infeasible to configure Session Recording on every Secret (disk space and CPU limitations) and it may be considered onerous to configure the Approval workflow on every Secret (administrators become desensitized to approving access to every single request).
+
+  With Access Challenges, however, these workflows can be enabled dynamically when a user’s behavior has become suspicious, helping to ease the tension operationally between security and efficiency.
 
 An expiration duration may be specified for the Challenge, or the Challenge may be valid indefinitely.
 
@@ -37,9 +37,9 @@ An expiration duration may be specified for the Challenge, or the Challenge may 
 
 ### Challenges in Version 10.3.000015 and Later
 
-**Two Factor**: User must re-authenticate with Secret Server and the Two Factor Remember Me is expired if set.
-**Require Approval**: User must request approval for accessing any secrets unless they are the only Approver for that secret.
-**Lockout**: User is locked out from Secret Server. This may be configured to include Secret Servers that use SAML and integrated authentication.
+* **Two Factor**: User must re-authenticate with Secret Server and the Two Factor Remember Me is expired if set.
+* **Require Approval**: User must request approval for accessing any secrets unless they are the only Approver for that secret.
+* **Lockout**: User is locked out from Secret Server. This may be configured to include Secret Servers that use SAML and integrated authentication.
 
 ### Challenges in Version 10.4.00000X and Later
 

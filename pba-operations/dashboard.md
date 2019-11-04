@@ -1,5 +1,5 @@
-[title]: # (PBA Operations)
-[tags]: # (Privileged Behavior Analytics,PBA,Dashboard)
+[title]: # (Dashboard)
+[tags]: # (Privileged Behavior Analytics,PBA,Operations,Dashboard)
 [priority]: # (4010)
 
 # Dashboard

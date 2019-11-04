@@ -1,5 +1,5 @@
-[title]: # (PBA Operations)
-[tags]: # (Privileged Behavior Analytics,PBA,)
+[title]: # (User Watch List)
+[tags]: # (Privileged Behavior Analytics,PBA,Operations,User Watch List)
 [priority]: # (4040)
 
 # User Watch List

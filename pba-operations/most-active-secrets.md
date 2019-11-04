@@ -1,5 +1,5 @@
-[title]: # (PBA Operations)
-[tags]: # (Privileged Behavior Analytics,PBA,Most Active,Rank,50 Secrets)
+[title]: # (Most Active Secrets)
+[tags]: # (Privileged Behavior Analytics,PBA,Operations,Most Active,Rank,50 Secrets)
 [priority]: # (4060)
 
 # Most Active Secrets

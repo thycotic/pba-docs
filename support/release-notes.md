@@ -21,7 +21,7 @@ Enhancements:
 * New IP Address Analytics that include:
   * Map feature that visualizes Secret accesses by location
   * Detailed reports of actions by IP address
-  * Searchable and filterable list of IP addresses, locations, and stats
+  * Searchable and filterable list of IP addresses, locations, and statistics
 * New Administrator Action Analytic Suite that includes:
   * Map to visualize Secret Server administrators’ actions by location
   * Clock to visualize Secret Server administrators’ actions by time

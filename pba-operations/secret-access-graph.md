@@ -1,5 +1,5 @@
-[title]: # (PBA Operations)
-[tags]: # (Privileged Behavior Analytics,PBA,)
+[title]: # (Secret Access Graph)
+[tags]: # (Privileged Behavior Analytics,PBA,Operations,Secret Access Graph)
 [priority]: # (4020)
 
 # Secret Access Graph
@@ -23,7 +23,7 @@ Now consider a different group of Users who are mobile sales staff. These Users 
 * they tend to use the Secrets for brief, dispersed periods of time across a much longer work day, beginning earlier and running later, because sales work often requires those hours
 * weekends see a desert of activity by this group, because most sales prospects are only reachable at their work locations, and generally do not want to be reached at home
 
-These two User populations would show up in PBS as distinct Communities. In the PBA Secret Access Graph, they would be represented as globes at the nodes of a network of such globes, each representing a collection of Users having some degree of similarity in the patterns of their access of Secrets.
+These two User populations would show up in PBA as distinct Communities. In the PBA Secret Access Graph, they would be represented as globes at the nodes of a network of such globes, each representing a collection of Users having some degree of similarity in the patterns of their access of Secrets.
 
 A larger globe represents a larger number of accesses, by dint of either more Users or more Secrets. The distances between globes corresponds to the degrees of similarity among them, with globes closer together being more similar. The links connecting the Communities also vary in their qualities, denoting more or less overlap in Users or Secrets accessed between two Communities.
 

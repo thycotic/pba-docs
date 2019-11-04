@@ -1,5 +1,5 @@
-[title]: # (PBA Operations)
-[tags]: # (Privileged Behavior Analytics,PBA,)
+[title]: # (Secret Details)
+[tags]: # (Privileged Behavior Analytics,PBA,Operations,Secret Details)
 [priority]: # (4080)
 
 # Secret Details
@@ -9,7 +9,7 @@ You can access Secret Details by navigating to **Details** > **Secrets**.
 
 ![alt](images/9d7749839717f2b509d01fcf1e216758.jpg)
 
-The Secret Details page will list all Secrets with Secret ID, Secret Template, the number of unique Users that access the Secret, the total number of accesses by Users, when the Secret was created, and when it was last active.
+The Secret Details page will list all Secrets with Secret ID, Secret Name, Secret Template, the number of Distinct Users that have accessed the Secret, the Total Accesses by Users, the Secret Created date, and the date of the Last Activity.
 
 If you click on any of the Secret names you will be directed to that Secret’s Details page, which shows the following:
 

@@ -13,8 +13,8 @@ See the [Overview](./overview/index.md) for a quick product orientation.
 
 [Getting Started](./getting-started/index.md) explains the setup steps required for PBA to work with your Secret Server.
 
-[PBA Operations](./pba-operations/index.md) describes how to use PBS during normal daily operations, while [PBA Responsive Actions](./pba-responsives/index.md) explains how PBA automates your organization’s response when operations vary from normal.
+[PBA Operations](./pba-operations/index.md) describes how to use PBA during normal daily operations, while [PBA Responsive Actions](./pba-responsives/index.md) explains how PBA automates your organization’s response when operations vary from normal.
 
-[PBA Administration](./pba-admin/index.md) details how you should administer PBA so that it becomes ever more attuned to the normal activities flow of your organization and therefore more effective in detecting anomalies that could indicate increased risk.
+[PBA Administration](./pba-admin/index.md) details how you should administer PBA so that it becomes ever more attuned to the normal activities flow of your organization, and therefore more effective in detecting anomalies that could indicate increased risk.
 
 [Support Resources](./support/index.md) connects you to available product support and provides [Release Notes](./support/release-notes.md).
