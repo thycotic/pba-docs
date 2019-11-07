@@ -39,11 +39,15 @@ Significant protection applies to data uploads by Secret Server to Privileged Be
 * The data upload mechanism provides no means for remote access into your Secret Server.
 * In addition, the data uploads to a Cloud location to which only your organization’s Secret Server can write.
 * PBA encrypts your organization’s uploaded data with a key unique to your PBA tenancy.
-* If your organization disallows outbound connections from Secret Server’s network segment, you can instead upload using Thycotic’s Distributed Engine architecture.
-  * Option 1 in the illustration shows the default manner of upload by the Secret Server web node in the local site.
-  * Option 2 shows a remote site upload using a Distributed Engine.
 
-images/083.gif
+### Alternative Data Upload via Distributed Engine Architecture
+
+If your organization disallows outbound connections from Secret Server’s network segment, you can instead upload using Thycotic’s Distributed Engine architecture.
+
+* Option 1 in the illustration shows the default manner of upload by the Secret Server web node in the local site.
+* Option 2 shows a remote site upload using a Distributed Engine.
+
+![Alternative Data Upload via Distributed Engine Architecture](images/alternative-data-upload.png)
 
 ### Security Provisions Apply to Connections to the Cloud
 
