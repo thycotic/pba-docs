@@ -7,7 +7,7 @@
 If your Secret Server has outbound access through a proxy, its **web.config** must be modified to specify the proxy configuration.
 
 * If Secret Server is also clustered and has multiple worker roles enabled (see the [Background Worker](bkground-worker-clust-env.md) article), the web.config must be updated for each Secret Server in the cluster.
-  * Microsoft has [more information](https://docs.microsoft.com/en-us/dotnet/framework/configure-apps/file-schema/network/defaultproxy-element-network-settings) on this.
+  Microsoft has [more information](https://docs.microsoft.com/en-us/dotnet/framework/configure-apps/file-schema/network/defaultproxy-element-network-settings) on this.
 
 The other option in a clustered environment is to specify a remote site for the data upload, and upload data through a Distributed Engine. If the distributed engine’s host server is also behind a proxy, however, the engine’s **Thycotic.DistributedEngine.Service.exe.config** must be modified similarly to the **web.config** in order to specify the proxy settings.
 
@@ -15,15 +15,20 @@ The other option in a clustered environment is to specify a remote site for the 
 * For Secret Server v10.3.000015 or earlier, the following XML should be added to the **web.config** immediately following the closing \</configSections\> tag:
 
 ```BASH
-\<SYSTEM.NET\> \<DEFAULTPROXY ENABLED="TRUE" USEDEFAULTCREDENTIALS="TRUE"\> \<PROXY USESYSTEMDEFAULT="FALSE"
-PROXYADDRESS="HTTPS://PROXY:PORT"
-BYPASSONLOCAL="TRUE" /\> \</DEFAULTPROXY\> \</SYSTEM.NET\>
+<SYSTEM.NET><DEFAULTPROXY ENABLED="TRUE" USEDEFAULTCREDENTIALS="TRUE">
+                 <PROXY USESYSTEMDEFAULT="FALSE" PROXYADDRESS="HTTPS://PROXY:PORT" BYPASSONLOCAL="TRUE" />
+            </DEFAULTPROXY>
+</SYSTEM.NET>
 ```
 
 The resulting web.config will be as follows:
 
 ```BASH
-\</CONFIGSECTIONS\> \<SYSTEM.NET\> \<DEFAULTPROXY ENABLED="TRUE" USEDEFAULTCREDENTIALS="TRUE"\> \<PROXY USESYSTEMDEFAULT="FALSE"
-PROXYADDRESS="HTTPS://PROXY:PORT "
-BYPASSONLOCAL="TRUE" /\> \</DEFAULTPROXY\> \</SYSTEM.NET\> \<CONFIGURATION TYPE="THYCOTIC.FOUNDATION.CONFIGURATION, THYCOTIC.FOUNDATION"\>
+</CONFIGSECTIONS>
+    <SYSTEM.NET>
+        <DEFAULTPROXY ENABLED="TRUE" USEDEFAULTCREDENTIALS="TRUE">
+             <PROXY USESYSTEMDEFAULT="FALSE" PROXYADDRESS="HTTPS://PROXY:PORT" BYPASSONLOCAL="TRUE"/>
+        </DEFAULTPROXY>
+    </SYSTEM.NET>
+<CONFIGURATION TYPE="THYCOTIC.FOUNDATION.CONFIGURATION, THYCOTIC.FOUNDATION">
 ```

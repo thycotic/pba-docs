@@ -9,4 +9,4 @@ After enabling PBA, navigate to **AdminClustering.aspx** and ensure that at leas
 * In Secret Server versions prior to 10.1.000000, all nodes process web requests, but only the Primary Node runs background tasks.
 * In 10.1.000000 and later, the Background Worker feature allows you to specify the Secret Server nodes that run background tasks.
 
-![alt](images/d36a754a8b18d6dcb3a722a8ce287962.jpg)
+![alt](images/web-server-nodes.jpg)

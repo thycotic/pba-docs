@@ -1,4 +1,4 @@
-[title]: # (Data Uploader Setup)
+﻿[title]: # (Data Uploader Setup)
 [tags]: # (Privileged Behavior Analytics,PBA,Data Uploader)
 [priority]: # (3030)
 
@@ -16,11 +16,11 @@ Log in to your PBA instance and navigate to **\<PBA\>/system_settings.** Click o
 
 If you are prompted whether Secret Server is on version 10.4.000000 or later, click *No*.
 
-![alt](images/8853e184076967738a50d50905d6a98c.jpg)
+![alt](images/01-data-uploader.png)
 
 After copying the integration key, open Secret Server and navigate to **Administration > Privileged Behavior Analytics**. You should see the following screen:
 
-![alt](images/2ccf0fb8ec350f794f0ae8a85c6f77d5.jpg)
+![alt](images/pba-challenge-enabled.jpg)
 
 Click **Edit**.
 
@@ -32,7 +32,7 @@ The key is encrypted for protection in transit. When you enter the key into Secr
 
 The key can never be loaded again through the UI, but can be updated in case the linked Thycotic PBA account needs to be changed.
 
-![alt](images/ebe69c5385ffe669e466827288a04216.jpg)
+![alt](images/local-log-dir.jpg)
 
 You will also need to specify the following fields:
 
@@ -42,19 +42,19 @@ You will also need to specify the following fields:
 
 * If you are also using **Distributed Engine** you can specify a remote site and upload event data to PBA via Engines. This option is useful if you want to offload the work or if you prefer to allow an outbound firewall rule to the PBA servers from an Engine rather than from the server running Secret Server.
 
-**Local Log Directory**: Event logs are stored on a local drive or network drive before being uploaded to cloud storage. Secret server or your Distributed Engines (depending on whether you specify a local or remote site in the previous setting) must have write access to this local directory or network drive location.
+**Local Log Directory**: Event logs are stored on a local drive or network drive before being uploaded to cloud storage. Secret Server or your Distributed Engines (depending on whether you specify a local or remote site in the previous setting) must have write access to this local directory or network drive location.
 
 * *IMPORTANT FOR CLUSTERED ENVIRONMENTS:* This setting is the same for all IIS nodes or engines on a given site. Therefore:
-  * If you enable background worker on multiple web nodes (see the [Background Worker](bkground-worker-clust-env.md) article) and specify `C:\\logs\\uba` then you will need to create this same directory on each of your web node servers and ensure each Secret Server installation (web node) can write to its respective local directory.
+  * If you enable background worker on multiple web nodes (see the [Background Worker](bkground-worker-clust-env.md) article) and specify `C:\logs\uba` then you will need to create this same directory on each of your web node servers and ensure each Secret Server installation (web node) can write to its respective local directory.
   * The same applies to a remote site with more than one distributed engine; each of the distributed engine’s host machines must have a directory by this name, or have access to the network share if used.
 
-**Challenge Enabled**: Enable Secret Server Access Challenges. See [Access Challenge](../access-challenge.md) for further information.
+**Challenge Enabled**: Enable Secret Server Access Challenges. See [Access Challenges](../access-challenges.md) for further information.
 
 **Encrypt (At Rest)**: Encrypt event logs at rest in cloud storage. This is enabled by default and the recommendation is to keep it enabled. Performance improvements from disabling it are negligible.
 
 **External PBA URL**: This is the URL of your Privileged Behavior Analytics cloud instance. It must be set manually and will change the PBA links in the Tools menu and Setup Home page to direct to your cloud instance in a new tab, instead of directing to this configuration page in Secret Server.
 
-Setting this to your PBA URL will also convert the **PBA Event Id** column on the **Access Challenge** page to clickable links (see [Access Challenge](../access-challenge.md) for further information).
+Setting this to your PBA URL will also convert the **PBA Event Id** column on the **Access Challenges** page to clickable links (see [Access Challenges](../access-challenges.md) for further information).
 
 **Upload Frequency—Event Logs**: The frequency that event logs are uploaded to PBA. The recommend interval is 5 minutes. The minimum interval is 2 minutes.
 
@@ -80,19 +80,18 @@ If PBA was already enabled in Secret Server prior to upgrading to version 10.4.0
 
 Single Sign On requires a key exchange in order for PBA to use Secret Server as an identity provider, and a new integration key is provided with PBA’s public key in order to initiate this key exchange.
 
-Use these steps:
+Use these steps to obtain the Integration Key from PBA that will be used by Secret Server to authenticate and upload data to PBA.
 
-* Obtain the Integration Key from PBA that will be used by Secret Server to authenticate and upload data to PBA.
 * Log into your PBA instance and navigate to **System Settings**.
 * Click on **View Integration Key**.
 * Copy the key.
   * If you are prompted to specify whether Secret Server is on version 10.4.000000, click *Yes.*
 
-![alt](images/8853e184076967738a50d50905d6a98c.jpg)
+![alt](images/integration-settings.jpg)
 
-* After copying the integration key, open Secret Server and navigate to navigate to **Administration > Privileged Behavior Analytics**. You should see the following screen.
+* After copying the integration key, open Secret Server and navigate to **Administration > Privileged Behavior Analytics**. You should see the following screen.
 
-![alt](images/676c417420c5848b75d5d3fda2029e8a.jpg)
+![alt](images/confirm-ss-key.jpg)
 
 * Click **Edit**.
 * Enter your PBA key in the same-named field.
@@ -103,9 +102,9 @@ Use these steps:
   * **Enabled**: Enable Privileged Behavior Analytics.
   * **Site**: Set to Local by default, this will process and upload event logs using your IIS server running Secret Server (the default for your local site).
     * If you are also using Distributed Engine you can specify a remote site and upload event data to PBA via Engines. This option is useful if you want to offload the work or if you prefer to allow an outbound firewall rule to the PBA servers from an Engine rather than from the server running Secret Server.
-* **Challenge Enabled**: Enable Secret Server Access Challenges. See the [Access Challenge](../access-challenge.md) article for further information. You may also click on **Advanced** to change additional settings:
+* **Challenge Enabled**: Enable Secret Server Access Challenges. See the [Access Challenges](../access-challenges.md) article for further information. You may also click on **Advanced** to change additional settings:
 
-![alt](images/7fd63409aceb0824c9311cf33ddd0776.jpg)
+![alt](images/pba-int-key.jpg)
 
 **External PBA URL**: This is the URL of your Privileged Behavior Analytics cloud instance. It is set automatically by the integration key but may be overridden. This URL is used for Single Sign On, for redirecting to PBA from the Tools menu, and on the **Access Challenge** page to create links to the PBA events that spawned Access Challenges. See the [Access Challenge](../access-challenge.md) article for further information.
 

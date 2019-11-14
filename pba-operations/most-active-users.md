@@ -1,12 +1,12 @@
 [title]: # (Most Active Users)
 [tags]: # (Privileged Behavior Analytics,PBA,Operations,Most Active,Rank,50 Users)
-[priority]: # (4070)
+[priority]: # (4080)
 
 # Most Active Users
 
-Most Active Users ranks the top 50 most active Users in your Secret Server environment. You can see your top 50 most active users by navigating to **Analytics** > **Most Active** Users.
+Most Active Users ranks the top 50 most active Users in your Secret Server environment. You can see your top 50 most active users by navigating to **Analytics** > **Most Active Users**.
 
-![alt](images/1f6cc14f180155df46dfa451c130fd74.jpg)
+![alt](images/22-most-active-users.png)
 
 The list contains the User Name, Display Name, and number of Accesses to Secrets, with a bar chart as visual reference.
 

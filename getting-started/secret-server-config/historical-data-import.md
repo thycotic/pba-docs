@@ -11,7 +11,7 @@ When you first enable Privileged Behavior Analytics, you will be prompted whethe
 * By default, only 30 days of historical event data is imported because this is typically the most relevant data for learning about user behavior.
 * If you seek to import more than 30 days of historical data, please contact [Thycotic Support](../../support/index.md) for assistance.
 
-![alt](images/32864bce5d635a939c3f9b11c5cb0588.jpg)
+![alt](images/30-days-query.jpg)
 
 When you receive the prompt about whether to import historical data, select:
 
@@ -24,4 +24,4 @@ If you click **OK** to begin the import, you will see a dialog like the one belo
 
 * For Secret Server v10.3.000015 and earlier, note that the **Event Log Upload Frequency** may affect the total processing time. A shorter interval will decrease the time and a longer interval will increase the time.
 
-![alt](images/35e058a65fefeb7d5423ee0f8fce649f.jpg)
+![alt](images/hist-data-import.jpg)
