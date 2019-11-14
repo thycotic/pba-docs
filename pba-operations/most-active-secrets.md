@@ -1,12 +1,12 @@
 [title]: # (Most Active Secrets)
 [tags]: # (Privileged Behavior Analytics,PBA,Operations,Most Active,Rank,50 Secrets)
-[priority]: # (4060)
+[priority]: # (4070)
 
 # Most Active Secrets
 
 **Most Active Secrets** ranks the top 50 most accessed Secrets. To see this, navigate to **Analytics** > **Most Active Secrets**.
 
-![alt](images/a52e975f49bfa57e1c12b1a6b079c4fc.jpg)
+![alt](images/21-most-active-secrets.png)
 
 The list contains the Secret ID, Secret Name, and number of access events for each of the 50 secrets, using a bar chart as visual reference.
 

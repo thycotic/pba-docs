@@ -15,7 +15,6 @@ PBA subscribers have access to support by phone and email. You also can open a c
 To obtain support by email or phone, first log in to the Support Portal to obtain a PIN. The PIN validates that your license includes support, and you must provide the PIN in your email or when you call. The PIN also makes it easier for the person helping you to locate your customer records and give you better support.
 
 * Visit the [Support Portal Login Page](https://thycotic.force.com/support/s/login/) using the credentials you received when your organization subscribed to the PBA service.
-
 * After logging in, you will be on the main page. Click on the large blue bar labeled PIN to obtain a PIN number.
 
 ## Support by Phone
@@ -55,7 +54,5 @@ You must send your email using an email address already noted in your account wi
 As an alternative to support by email or phone, you can open a support ticket and track your issue to resolution.
 
 * Visit the [Support Portal Login Page](https://thycotic.force.com/support/s/login/) using the credentials you received when your organization subscribed to the PBA service.
-
 * After logging in, you will be on the main page. Click the **Cases** tab, then **Create a Case**.
-
 * Follow the instructions to complete your case.

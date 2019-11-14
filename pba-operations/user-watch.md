@@ -1,6 +1,6 @@
-[title]: # (User Watch List)
+﻿[title]: # (User Watch List)
 [tags]: # (Privileged Behavior Analytics,PBA,Operations,User Watch List)
-[priority]: # (4040)
+[priority]: # (4030)
 
 # User Watch List
 
@@ -18,14 +18,14 @@ To add a Secret Server URL for direct linking:
 * select Configuration > Edit
 * set the **Secret Server Custom URL**—the URL will be passed to Privileged Behavior Analytics in the next metadata upload
 
-![alt](images/083d015ba2f75f0fc06638a7d9fc1167.jpg)
+![alt](images/17-user-watch-list-a.png)
 
 Users can be added to the Watch List by clicking the Add User icon at the top right of the page. Multiple new or existing users can be added to the list along with a list of reasons and notes.
 
 * For existing Watch List users, the reasons and notes will be appended to their current reasons list and notes.
 
-![alt](images/1d05865137f932b111422c06891b20c3.jpg)
+![alt](images/18-user-watch-list-b.png)
 
-![alt](images/7094c80705f410020a05c1c1cf00ebc7.jpg)
+![alt](images/19-user-watch-list-c.png)
 
 To make changes to a reason, click the **Edit Reasons** button on the top right side of the toolbar. The current list of reasons will appear with options to change the name or color or to delete the reason from the Watch List. These changes affect all Watch Listed Users with the edited reason and are not tracked in the Last Updated information.
