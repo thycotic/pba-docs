@@ -19,8 +19,8 @@ Once configured to work with PBA, your Secret Server securely uploads data to yo
 This means that no actual Secret fields, such as passwords, private keys, notes, or other first-order data ever leaves your Secret Server. Instead, only data **about** these things—literal **metadata**—upload to PBA.
 
 * For example, for a Secret that is a Windows account, fields uploaded for analysis by PBA in the Cloud would include the Secret Name, Secret Template, Secret Folder, Secret Policy ID, and Permissions.
-  *These are fields about the Secret, but not about the Windows account it contains.
-* Fields like Machine, Username, Password, Notes, Site, or any attached files, extra fields, or secret keys do not upload, as these comprise the actual content of the Secret.
+  * These are fields about the Secret, but not about the Windows account it contains.
+* Fields like Machine, Username, Password, Notes, Site, or any attached files, extra fields, or Secret keys do not upload, as these comprise the actual content of the Secret.
 
 ## PBA Users Log In to the PBA Cloud Service
 
@@ -29,7 +29,7 @@ PBA continuously processes the log data and applies analytics to deliver insight
 
 ## Data Protections and Security Applied Throughout
 
-The design and build of Privileged Behavior Analytics aims not to reduce the security of your Secret Server.
+The design and build of Privileged Behavior Analytics maintains at all times the security of your Secret Server.
 
 ### Security Provisions Apply to Data Uploads
 

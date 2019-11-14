@@ -6,8 +6,9 @@
 
 Each of the links here will open a video player in a new browser window. The videos examine the three primary use cases for Privileged Behavior Analytics:
 
-* [Alert Use Case](https://player.vimeo.com/video/209209433?title=0&byline=0&portrait=0&wmode=opaque)
+* [Alert Use Case](https://player.vimeo.com/video/209209433?title=0&byline=0&portrait=0&wmode=opaque target="_blank")
 
-* [Access Use Case](https://player.vimeo.com/video/209209431?title=0&byline=0&portrait=0&wmode=opaque)
+* [Access Use Case](https://player.vimeo.com/video/209209431?title=0&byline=0&portrait=0&wmode=opaque target="_blank")
 
-* [Temporal Use Case](https://player.vimeo.com/video/209209423?title=0&byline=0&portrait=0&wmode=opaque)
+* [Temporal Use Case](https://player.vimeo.com/video/209209423?title=0&byline=0&portrait=0&wmode=opaque target="_blank")
+

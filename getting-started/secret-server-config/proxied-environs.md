@@ -12,16 +12,7 @@ If your Secret Server has outbound access through a proxy, its **web.config** mu
 The other option in a clustered environment is to specify a remote site for the data upload, and upload data through a Distributed Engine. If the distributed engine’s host server is also behind a proxy, however, the engine’s **Thycotic.DistributedEngine.Service.exe.config** must be modified similarly to the **web.config** in order to specify the proxy settings.
 
 * For Secret Server v10.4 or later, the **web-proxy.config** can be uncommented and updated to specify the proxy settings.
-* For Secret Server v10.3.000015 or earlier, the following XML should be added to the **web.config** immediately following the closing \</configSections\> tag:
-
-```BASH
-<SYSTEM.NET><DEFAULTPROXY ENABLED="TRUE" USEDEFAULTCREDENTIALS="TRUE">
-                 <PROXY USESYSTEMDEFAULT="FALSE" PROXYADDRESS="HTTPS://PROXY:PORT" BYPASSONLOCAL="TRUE" />
-            </DEFAULTPROXY>
-</SYSTEM.NET>
-```
-
-The resulting web.config will be as follows:
+* For Secret Server v10.3.000015 or earlier, you must add proxy-related XML to the **web.config** file immediately following the file’s closing **\</configSections\>** tag, as depicted here:
 
 ```BASH
 </CONFIGSECTIONS>

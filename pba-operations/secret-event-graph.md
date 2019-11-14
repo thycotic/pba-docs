@@ -43,11 +43,9 @@ The Notes menu can be accessed by clicking the green button depicting a note wit
 
 ![alt](images/09-notes.png)
 
-All notes on nodes and links are listed here. You can edit any note by clicking on it or delete a note by clicking on the trashcan icon to the right of the note.
-
-Notes can be created by right-clicking on a node (circle) or link (line) in the Secret Event Graph. A small square of the color selected will appear on the node or link after the note is created.
-
-Hovering over the square or a note in the Notes menu will briefly highlight the note square on the Graph.
+* All notes on nodes and links are listed here. You can edit any note by clicking on it or delete a note by clicking on the trashcan icon to the right of the note.
+* Notes can be created by right-clicking on a node (circle) or link (line) in the Secret Event Graph. A small square of the color selected will appear on the node or link after the note is created.
+* Hovering over the square or a note in the Notes menu will briefly highlight the note square on the Graph.
 
 ## Table
 
