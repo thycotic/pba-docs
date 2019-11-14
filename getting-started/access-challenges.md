@@ -36,9 +36,9 @@ Navigate to **\<SECRET SERVER\>/AdminAnalyticsEdit.aspx** and check **Challenge 
 * If this setting is disabled, such **Requires Approval** conditions on a Secret *will not* be respected  during a **Requires Approval Access Challenge**.
 * If this setting is enabled, such conditions *will* be respected during such a challenge.
   * **Example:** A user is an editor of a Secret, and the effective setting on the Secret is *Editor Requires Approval=True*. However, the PBA setting to **Respect Owner/Editor Requires Approval** is not active. Therefore, when a **Requires Approval Access Challenge** is processed for this user, the user will be able to access the Secret despite being subject in Secret Server to an *Editor Requires Approval=True* condition.
-    In this example, if the PBA setting *was* active, the user would need to request approval to access the Secret until the Challenge is cleared, because PBA would respect the Secret Server *Editor Requires Approval=True* condition.
+    * In this example, if the PBA setting *was* active, the user would need to request approval to access the Secret until the Challenge is cleared, because PBA would respect the Secret Server *Editor Requires Approval=True* condition.
   * **Example:** A user is an editor of a Secret, and the effective setting on the Secret is *Editor Requires Approval=False*. However, the PBA setting to **Respect Owner/Editor Requires Approval** settings is still not active. Therefore, when a **Requires Approval Access Challenge** is processed for this user, the user will *not* be able to access the Secret despite having in Secret Server an *Editor Requires Approval=False* condition, because PBA is not set to honor that setting.
-  * In this example, if the PBA setting *was* active, the user would need to request approval to access the Secret until the Challenge is cleared, because PBA would respect the Secret Server *Editor Requires Approval=True* condition.
+    * In this example, if the PBA setting *was* active, the user would need to request approval to access the Secret until the Challenge is cleared, because PBA would respect the Secret Server *Editor Requires Approval=True* condition.
 
 ## PBA Configuration for Access Challenges
 

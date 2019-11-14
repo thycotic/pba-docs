@@ -8,6 +8,6 @@ Secret Server provides data to Privileged Behavior Analytics through the **Data 
 
 Other significant setup focus areas include:
 
-* setting up the **Background Worker** (clustered environments)
 * configuring for **proxied environments**
 * import of **historical data**
+* setting up the **Background Worker** (clustered environments)

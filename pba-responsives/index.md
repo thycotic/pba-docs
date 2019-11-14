@@ -33,7 +33,7 @@ An expiration duration may be specified for the Challenge, or the Challenge may 
 
 ### Challenges in Version 10.2.000000 and Later
 
-**Login**: User must re-authenticate with Secret Server.
+* **Login**: User must re-authenticate with Secret Server.
 
 ### Challenges in Version 10.3.000015 and Later
 
@@ -43,9 +43,8 @@ An expiration duration may be specified for the Challenge, or the Challenge may 
 
 ### Challenges in Version 10.4.00000X and Later
 
-**Session Recording**: User has their sessions recorded for any secrets that are capable of session recording.
-
-* This session recording is surreptitious, and there is no indicator to the user that they are being recorded.
+* **Session Recording**: User has their sessions recorded for any secrets that are capable of session recording.
+  * This session recording is surreptitious, and there is no indicator to the user that they are being recorded.
 
 ## Webhook
 
