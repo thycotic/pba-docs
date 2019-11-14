@@ -19,7 +19,7 @@ The sections display a variety of detailed information.
 * mouse over a colored circle for details on a particular event
 * the chart can be panned left and right by dragging or zoomed by scrolling, which also filter data in the table
 
-[alt](images/39-ip-details-b.png)
+![alt](images/39-ip-details-b.png)
 
 **Temporal Behavior**: a chart showing all temporal data for the IP address organized by time of day and day of the week
 
@@ -28,4 +28,4 @@ The sections display a variety of detailed information.
 * the legend at the bottom shows the number of events that correlate to the coloring of the chart blocks
 * mouse over a block to get the total number of events for that day of week and hour of day
 
-[alt](images/40-ip-details-c.png)
+![alt](images/40-ip-details-c.png)
