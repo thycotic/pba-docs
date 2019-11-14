@@ -17,10 +17,9 @@ If you click on any of the Secret names you will be directed to that Secret’s 
 
 ![alt](images/26-secret-details-a.png)
 
-**Activity Timeline**: shows all activity for the Secret, including alerts and warnings, accesses, and modifications as well as timestamps, IP address, and event details.
-
-* mouse over a colored circle for details on a particular event
-* the chart can be panned left and right by dragging or zoomed by scrolling, which also filter data in the table
+* **Activity Timeline**: shows all activity for the Secret, including alerts and warnings, accesses, and modifications as well as timestamps, IP address, and event details.
+  * mouse over a colored circle for details on a particular event
+  * the chart can be panned left and right by dragging or zoomed by scrolling, which also filter data in the table
 
 ![alt](images/27-secret-details-b.png)
 
