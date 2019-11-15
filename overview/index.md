@@ -10,7 +10,3 @@ Privileged Behavior Analytics works with your Secret Server to improve the secur
 * **detect**: PBA learns patterns of activity—‘behaviors’—associated with security threats and continuously monitors for such threat indicators
 * **interrupt**: by mounting **Access Challenges** of several types, PBA automatically interrupts concerning behaviors
 * **announce**: as it detects possible threats, PBA uses several contact methods to notify appropriate staff
-
-## Privileged Behavior Analytics in One Sentence
-
-Secret Server uploads its log data (not your Secrets) to the PBA Cloud service, where your staff use analytics tools, detect patterns, and configure alerts, with strong data protections applied at all times.
