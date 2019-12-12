@@ -17,4 +17,6 @@ See the [Overview](./overview/index.md) for a quick product orientation.
 
 [PBA Administration](./pba-admin/index.md) details how you should administer PBA so that it becomes ever more attuned to the normal activities flow of your organization, and therefore more effective in detecting anomalies that could indicate increased risk.
 
-[Support Resources](./support/index.md) connects you to available product support and provides [Release Notes](./support/release-notes.md).
+[Support Resources](./support/index.md) connects you to available product support.
+
+[Release Notes](./release-notes/index.md) provides the most recent Privileged Behavior Analytics Release Notes.
