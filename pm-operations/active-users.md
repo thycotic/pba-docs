@@ -1,6 +1,6 @@
-[title] # (Most Active Users)
-[tags] # (privilege manager)
-[priority] # (4560)
+[title]: # (Most Active Users)
+[tags]: # (privilege manager)
+[priority]: # (4560)
 # Most Active Users
 
 Graph displaying the 50 most active users based on application events triggered.
