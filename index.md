@@ -9,14 +9,16 @@ Thycotic created this collection of short-form technical materials to quickly an
 * When you have a specific topic in mind, the search tool at upper right will be your quickest path to relevant articles.
 * For browsing, the Navigation Panel (menus at left) pulls together articles giving a solid grounding in Privileged Behavior Analytics.
 
-See the [Overview](./overview/index.md) for a quick product orientation.
+See the [Overview](overview/index.md) for a quick product orientation.
 
-[Getting Started](./getting-started/index.md) explains the setup steps required for PBA to work with your Secret Server.
+[Getting Started](getting-started/index.md) explains the setup steps required for PBA to work with your Secret Server.
 
-[PBA Operations](./pba-operations/index.md) describes how to use PBA during normal daily operations, while [PBA Responsive Actions](./pba-responsives/index.md) explains how PBA automates your organization’s response when operations vary from normal.
+[PBA Operations - Secret Server](pba-operations/index.md) describes how to use PBA for Secret Server during normal daily operations, while [PBA Responsive Actions](pba-responsives/index.md) explains how PBA automates your organization’s response when operations vary from normal.
 
-[PBA Administration](./pba-admin/index.md) details how you should administer PBA so that it becomes ever more attuned to the normal activities flow of your organization, and therefore more effective in detecting anomalies that could indicate increased risk.
+[PBA Operations - Privilege Manager](pm-operations/index.md) describes how to use PBA for Privilege Manager during normal daily operations
 
-[Support Resources](./support/index.md) connects you to available product support.
+[PBA Administration](pba-admin/index.md) details how you should administer PBA so that it becomes ever more attuned to the normal activities flow of your organization, and therefore more effective in detecting anomalies that could indicate increased risk.
 
-[Release Notes](./release-notes/index.md) provides the most recent Privileged Behavior Analytics Release Notes.
+[Support Resources](support/index.md) connects you to available product support.
+
+[Release Notes](release-notes/index.md) provides the most recent Privileged Behavior Analytics Release Notes.
