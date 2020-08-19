@@ -1,6 +1,6 @@
-[title] # (Users Details)
-[tags] # (privilege manager)
-[priority] # (4580)
+[title]: # (Users Details)
+[tags]: # (privilege manager)
+[priority]: # (4580)
 # Users Details
 
 All users with activity during PBA's monitoring period.

@@ -1,6 +1,6 @@
-[title] # (Privilege Manager Operations)
-[tags] # (privilege manager)
-[priority] # (4500)
+[title]: # (Privilege Manager Operations)
+[tags]: # (privilege manager)
+[priority]: # (4500)
 # PBA - Privilege Manager Operations
 
 Once you have setup Privilege Manager and Privileged Behavior Analytics to work together, you will begin normal operations. During a typical session with PBA, you will use various tools, including the quick navigation tiles and drop-down menu item tools summarized in the table below.

@@ -1,6 +1,6 @@
-[title] # (Application Clock)
-[tags] # (privilege manager)
-[priority] # (4500)
+[title]: # (Application Clock)
+[tags]: # (privilege manager)
+[priority]: # (4500)
 # Application Clock
 
 This application shows Privilege Manager event data organized by: Application, User, Endpoint, Policy, IP / Location. The circular chart is called a data clock and shows event counts by hour and day of the week (starting with the inner ring and spiraling clockwise outward). The charts in the right panel show totals by day of the week and hour of the day. The bottom panel shows daily totals for the entire activity period.

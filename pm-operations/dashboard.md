@@ -1,6 +1,6 @@
-[title] # (Dashboard)
-[tags] # (privilege manager)
-[priority] # (4510)
+[title]: # (Dashboard)
+[tags]: # (privilege manager)
+[priority]: # (4510)
 # Privilege Manager Operations Dashboard
 
 The Dashboard contains high-level summaries and key metrics for Privilege Manager event data and Privileged Behavior Analytics.

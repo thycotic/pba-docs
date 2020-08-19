@@ -1,6 +1,6 @@
-[title] # (IP Map)
-[tags] # (privilege manager)
-[priority] # (4540)
+[title]: # (IP Map)
+[tags]: # (privilege manager)
+[priority]: # (4540)
 # Privilege Manager IP Map Info
 
 This is an IP address map of Privilege Manager event data. Use the buttons in the top right corner to access map menus. Point clusters and heatmap layers for Users and Applications can be toggled on/off from the Layers menu.

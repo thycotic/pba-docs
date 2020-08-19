@@ -1,6 +1,6 @@
-[title] # (Most Active Apps)
-[tags] # (privilege manager)
-[priority] # (4550)
+[title]: # (Most Active Apps)
+[tags]: # (privilege manager)
+[priority]: # (4550)
 # Most Active Applications
 
 Graph displaying the 50 most active application based on user access.

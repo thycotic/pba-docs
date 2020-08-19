@@ -1,6 +1,6 @@
-[title] # (Application Graph)
-[tags] # (privilege manager)
-[priority] # (4520)
+[title]: # (Application Graph)
+[tags]: # (privilege manager)
+[priority]: # (4520)
 # Application Graph
 
 You are looking at a graph of Privilege Manager event data. The graph starts out showing clusters or "communities", which are a high-level organization of the nodes. The expanded view shows circles or "nodes", which represent Users and Applications. The lines or "links" show the number of events between Users and Applications.
