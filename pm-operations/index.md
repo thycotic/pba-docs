@@ -8,7 +8,7 @@ Once you have setup Privilege Manager and Privileged Behavior Analytics to work 
 ![pm](images/pm.png "Privilege Manager operations overview")
 
 | Name | Description |
-| ----- | ----- | ----- |
+| ----- | ----- |
 | [Dashboard](dashboard.md) | All of your key indicators, neatly assembled on quick-view tiles summarizing key indicators|
 | Privileged Behavior Alerts | Currently only available for Secret Server. In the left navigation area, click the alerts icon to toggle the tile to be invisible on the dashboard. |
 | [Application Clock](app-clock.md) | Summarized Privilege Manager event data organized by Application, User, Endpoints, Policy, and IP/location data. |
