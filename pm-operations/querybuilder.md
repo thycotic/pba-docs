@@ -1,6 +1,7 @@
 [title]: # (Query Builder)
 [tags]: # (privilege manager)
 [priority]: # (4620)
+
 # Query Builder
 
 The Build Query page allows you to retrieve data that meet criteria you specify. A table shows results of the query, and data can be exported for offline analysis or auditing.
