@@ -1,6 +1,6 @@
 [title]: # (Query Builder)
-[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,Query,Builder)
-[priority]: # (4620)
+[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Query,Builder)
+[priority]: # (4140)
 
 # Query Builder
 

@@ -1,5 +1,5 @@
 [title]: # (Privilege Manager Operations)
-[tags]: # (privilege manager)
+[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations)
 [priority]: # (4500)
 
 # PBA - Privilege Manager Operations
@@ -8,7 +8,7 @@ Once you have setup Privilege Manager and Privileged Behavior Analytics to work 
 
 >**Note**: If you are already using PBA for Secret Server, select the Privilege Manager Analytics menu. If you are using PBA for Privilege Manager only, your Privilege Manager Analytics Dashboard opens by default.
 
-![pm](images/pm.png "Privilege Manager operations overview")
+![Privilege Manager Operations Overview](images/pm-pba-menu.png "Privilege Manager Operations Overview")
 
 | Name | Description |
 | ----- | ----- |
@@ -18,9 +18,9 @@ Once you have setup Privilege Manager and Privileged Behavior Analytics to work 
 | [Application IP Map](app-ipmap.md) | Maps out application activity, aggregated by IP address and location |
 | [Most Active Applications](most-active-apps.md) | Reveals which applications have seen the most executions |
 | [Most Active Users](most-active-users.md) | Identifies users accessing more applications than most other users |
-| [Details - Applications](details-apps.md) | Runs down all recent access activity for specific applications and their characteristics |
-| [Details - Users](details-users.md) | Allows you to explore in detail information collected about a specific user’s activity |
-| [Details - Endpoints](details-endpoints.md) | Summarizes endpoint activity by user and application |
-| [Details - Policies](details-policies.md) | Provides details about policies triggered by users accessing applications |
-| [Details - IP Addresses](details-ip-addresses.md) | Shows IP address activity summary and location information |
-| [Details - Query Builder](querybuilder.md) | Enables data query and export for criteria you specify |
+| [Application Details](details-apps.md) | Runs down all recent access activity for specific applications and their characteristics |
+| [User Details](details-users.md) | Allows you to explore in detail information collected about a specific user’s activity |
+| [Endpoint Details](details-endpoints.md) | Summarizes endpoint activity by user and application |
+| [Policy Details](details-policies.md) | Provides details about policies triggered by users accessing applications |
+| [IP Address Details](details-ip-addresses.md) | Shows IP address activity summary and location information |
+| [Query Builder](querybuilder.md) | Enables data query and export for criteria you specify |

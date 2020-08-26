@@ -1,5 +1,5 @@
 ﻿[title]: # (Secret Event Graph)
-[tags]: # (Privileged Behavior Analytics,PBA,Operations,Secret Event Graph)
+[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Secret Event Graph)
 [priority]: # (4050)
 
 # Secret Event Graph
@@ -16,7 +16,7 @@ When you expand (double-click) a Community, you can see all the users and Secret
 
 Community, User, and Secret nodes may be outlined by a shade of red. If this is the case, there is an active alert for a user and/or Secret and more information can be found by right clicking on the affected nodes and observing active alerts or by navigating to the **Alerts > Privileged Behavior Alerts** page.
 
-![alt](images/08-secret-event-graph.png)
+![Secret Event Graph](images/08-secret-event-graph.png)
 
 Whether a Community is expanded or not, you can right click on any node or link on the Secret Event Graph to add notes or see further details.
 
@@ -26,7 +26,7 @@ The icon to the left of the menu buttons will toggle the Graph between light and
 
 The Filters menu (three horizontal lines button) provides options to limit the number of nodes and links displayed.
 
-![alt](images/filters.jpg)
+![Graph Filters](images/filters.jpg)
 
 * **OR AND Filter**: determines how filters will be applied to the Secret Event Graph
 * **Filter by selected**: lets you filter the Secret Event Graph display by Secret, User, Group, Folder, IP Address, Secret Importance, and Template
@@ -39,7 +39,7 @@ The Filters menu (three horizontal lines button) provides options to limit the n
 
 The Notes menu can be accessed by clicking the green button depicting a note with a folded corner at the top right of the Secret Event Graph page.
 
-![alt](images/09-notes.png)
+![Graph Notes](images/09-notes.png)
 
 * All notes on nodes and links are listed here. You can edit any note by clicking on it or delete a note by clicking on the trashcan icon to the right of the note.
 * Notes can be created by right-clicking on a node (circle) or link (line) in the Secret Event Graph. A small square of the color selected will appear on the node or link after the note is created.
@@ -49,7 +49,7 @@ The Notes menu can be accessed by clicking the green button depicting a note wit
 
 The Table menu can be accessed by clicking the green button between the Notes and Tools buttons at the top right of the Secret Event Graph page.
 
-![alt](images/10-table.png)
+![Graph Table](images/10-table.png)
 
 This menu gives you a full, sortable text-based list of all User and Secret node metrics. Placing your mouse over any of the node names in the lists will highlight that node on the Secret Event Graph if the Community it is in is expanded.
 
@@ -65,7 +65,7 @@ This menu gives you a full, sortable text-based list of all User and Secret node
 
 The Tools menu (cogwheel button) allows you to customize what is displayed on the graph.
 
-![alt](images/11-tools.png)
+![Graph Tools](images/11-tools.png)
 
 * **Search**: At the top of the menu is a search field where you can enter the name of a User or Secret to highlight that specific node on the Secret Event Graph. Press Enter to repeat the animation.
 * **Alert Indicators**: turned on by default, this will outline Secret and User nodes in a shade of red based on whether it has an active alert; the redder a node is the higher the total alert risk

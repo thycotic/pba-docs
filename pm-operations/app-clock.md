@@ -1,6 +1,6 @@
 [title]: # (Application Clock)
 [tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,Application Clock)
-[priority]: # (4500)
+[priority]: # (4510)
 
 # Application Clock
 
@@ -31,4 +31,4 @@ To move back and forth through specific weeks, use the left and right arrows at 
 * Likewise, if you refine by a user and wish to see which applications they accessed on a particular day or at a certain time, you can right-click on the corresponding bar and click on the name of the user.
 * Adding a filter from two different data types will perform an "AND" operation between them.  For example, filtering on an application and a user will only show events where the user accessed that application.
 
-Note that all charts and timestamps are based on the Local Timezone in System Settings.
+*Note that all charts and timestamps are based on the Local Timezone in System Settings.*

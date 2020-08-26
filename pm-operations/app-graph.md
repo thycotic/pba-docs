@@ -26,7 +26,7 @@ The icon to the left of the menu buttons will toggle the Graph between light and
 
 The Filters menu (three horizontal lines button) provides options to limit the number of nodes and links displayed.
 
-![alt](images/filters.jpg)
+![Graph Filters](images/app-graph-filters.jpg "Graph Filters")
 
 * **OR AND Filter**: determines how filters will be applied to the Graph
 * **Filter by selected**: lets you filter the Graph display by Application, User, Endpoint, Group, IP Address (and City, Region, Country), or Policy
@@ -37,7 +37,7 @@ The Filters menu (three horizontal lines button) provides options to limit the n
 
 The Notes menu can be accessed by clicking the button depicting a note with a folded corner at the top right of the Application Graph page.
 
-![alt](images/09-notes.png)
+![Graph Notes](images/app-graph-notes.png "Graph Notes")
 
 * All notes on nodes and links are listed here. You can edit any note by clicking on it or delete a note by clicking on the trashcan icon to the right of the note.
 * Notes can be created by right-clicking on a node (circle) or link (line) in the Application Graph. A small square of the color selected will appear on the node or link after the note is created.
@@ -47,7 +47,7 @@ The Notes menu can be accessed by clicking the button depicting a note with a fo
 
 The Table menu can be accessed by clicking the icon between the Notes and Tools buttons at the top right of the Application Graph page.
 
-![alt](images/10-table.png)
+![Graph Table](images/app-graph-table.png "Graph Table")
 
 This menu gives you a full, sortable text-based list of all User and Application node metrics. Placing your mouse over any of the node names in the lists will highlight that node on the Application Graph if the Community it is in is expanded.
 
@@ -63,7 +63,7 @@ This menu gives you a full, sortable text-based list of all User and Application
 
 The Tools menu (cogwheel button) allows you to customize what is displayed on the Graph.
 
-![alt](images/11-tools.png)
+![Graph Tools](images/app-graph-tools.png "Graph Tools")
 
 * **Search**: At the top of the menu is a search field where you can enter the name of a User or Application to highlight that specific node on the Application Graph. Press Enter to repeat the animation.
 * **Alert Indicators**: turned on by default, this will outline nodes in a shade of red based on whether it has an active alert; the redder a node is the higher the total alert risk

@@ -21,8 +21,6 @@ The Map can be navigated like most web-based maps:
 * Pan to different locations by clicking on an open area and dragging the mouse
 * Zoom in or out using the mouse wheel, the buttons on the upper left, double-clicking (+ Shift), or dragging the mouse while holding Shift to select a zoom box
 
-*NOTE: If no data appear, please go to the **Filters** menu and try turning off filters or expanding the time range. From the System Settings page, a default location can be entered for cases where only internal (private) IP addresses are present in the data.*
-
 ## Filters
 
 The **Filters** menu (first menu button) provides options to limit data displayed based on user, application, IP address, location, and several related attributes.
@@ -32,9 +30,9 @@ The **Filters** menu (first menu button) provides options to limit data displaye
 * **Time Ranges**: by default, the Map will show activity from the last week; the Custom Range option allows selecting a start and end date to refine activity displayed
 * **Save or select IP map options**: save filtered views of the Map to quickly recall significant events or complex filter combinations
 
->**NOTE**: if no data appear, try turning off some filters.
+*NOTE: If no data appear, try turning off filters or expanding the time range. From the System Settings page, a default location can be entered for cases where only internal (private) IP addresses are present in the data.*
 
-![Application IP Map Filters](images/ip-map.png "Application IP Map Filters")
+![Application IP Map Filters](images/app-ipmap.png "Application IP Map Filters")
 
 ## Layers
 
@@ -44,7 +42,7 @@ There are also heatmaps and different basemaps that can be selected.
 
 * Selecting the **Dark** basemap will change the entire map application to the dark theme.
 
-![alt](images/42-ip-layers.png)
+![IP Map Layers](images/app-ipmap-layers.png "IP Map Layers")
 
 ## Table
 
@@ -62,7 +60,7 @@ The Table menu (third menu button) provides a sortable text-based list of key me
 * **IP – Region**: shows IP address list with region (state) of the location (if available)
 * **IP – Country**: shows IP address list with country of the location
 
-![alt](images/43-ip-table.png)
+![IP Map Table](images/app-ipmap-table.png "IP Map Table")
 
 ## Tools
 
@@ -73,13 +71,13 @@ The Tools menu also contains two additional data layer options:
 * **Alert Indicators** show red triangles for IP addresses that have active alerts or warnings. Clicking on a triangle will show details on the number of alerts and total risk score.
 * **Country Counts** show a semi-transparent layer shaded by the number of events taking place in each country. Clicking on a country will re-zoom the map to the selected country, and hovering the mouse over it will show the country name, flag, and number of events.
 
-![alt](images/44-ip-tools.png)
+![IP Map Tools](images/app-ipmap-tools.png, "IP Map Tools")
 
 ## Application IP Map Info
 
 Next to the menu buttons is an info icon that launches the **Application IP Map Info** box, which contains basic statistics on the map data displayed, map instructions, and disclaimers.
 
-![alt](images/45-ip-tools-map.png)
+![IP Map Tools 2](images/app-ipmap-tools2.png, "IP Map Tools 2")
 
 ## Disclaimers
 

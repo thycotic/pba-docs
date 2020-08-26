@@ -1,5 +1,5 @@
 [title]: # (Secret Event IP Map)
-[tags]: # (Privileged Behavior Analytics,PBA,Operations,Secret Event IP Map)
+[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Secret Event IP Map)
 [priority]: # (4060)
 
 # Secret Event IP Map
@@ -34,7 +34,7 @@ The **Filters** menu (first menu button) provides options to limit data displaye
 * **Time Ranges**: by default, the Map will show activity from the last week; the Custom Range option allows selecting a start and end date to refine activity displayed
 * **Save or select IP map options**: save filtered views of the Map to quickly recall significant events or complex filter combinations
 
-![alt](images/41-ip-map.png)
+![IP Map Filters](images/41-ip-map.png)
 
 ## Layers
 
@@ -44,7 +44,7 @@ There are also heatmaps and different basemaps that can be selected.
 
 * Selecting the **Dark** basemap will change the entire map application to the dark theme.
 
-![alt](images/42-ip-layers.png)
+![IP Map Layers](images/42-ip-layers.png)
 
 ## Table
 
@@ -60,7 +60,7 @@ The Table menu (third menu button) provides a sortable text-based list of key me
 * **IP – Region**: shows IP address list with region (state) of the location (if available)
 * **IP – Country**: shows IP address list with country of the location
 
-![alt](images/43-ip-table.png)
+![IP Map Table](images/43-ip-table.png)
 
 ## Tools
 
@@ -71,10 +71,10 @@ The Tools menu also contains two additional data layer options:
 * **Alert Indicators** show red triangles for IP addresses that have active alerts or warnings. Clicking on a triangle will show details on the number of alerts and total risk score.
 * **Country Counts** show a semi-transparent layer shaded by the number of events taking place in each country. Clicking on a country will re-zoom the map to the selected country, and hovering the mouse over it will show the country name, flag, and number of events.
 
-![alt](images/44-ip-tools.png)
+![IP Map Tools](images/44-ip-tools.png)
 
 ## Secret Event IP Map Info
 
 Next to the menu buttons is an info icon that launches the **Secret Event IP Map Info** box, which contains basic statistics on the map data displayed, map instructions, and disclaimers.
 
-![alt](images/45-ip-tools-map.png)
+![IP Map Tools 2](images/45-ip-tools-map.png)

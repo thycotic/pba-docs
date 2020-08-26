@@ -1,5 +1,5 @@
 [title]: # (Secret Server Operations)
-[tags]: # (secret server)
+[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations)
 [priority]: # (4000)
 
 # PBA - Secret Server Operations

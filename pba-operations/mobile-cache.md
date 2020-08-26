@@ -1,5 +1,5 @@
 [title]: # (Mobile Cache)
-[tags]: # (Privileged Behavior Analytics,PBA,Operations,Mobile Cache)
+[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Mobile Cache)
 [priority]: # (4090)
 
 # Mobile Cache
@@ -8,7 +8,7 @@ Mobile Cache shows timelines for available cached Secrets organized by user.  If
 
 You can view mobile-cached Secrets by navigating to **Analytics > Mobile Cache**.
 
-![alt](images/23-mobile-cache.png)
+![Mobile Cache graph](images/23-mobile-cache.png "Mobile Cache graph")
 
 If multiple users have current mobile-cached Secrets, the filter at the top can limit the chart view to a specific user.
 
