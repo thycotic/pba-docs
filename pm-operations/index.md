@@ -1,4 +1,4 @@
-[title]: # (Privilege Manager Operations)
+[title]: # (PBA - Privilege Manager Operations)
 [tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations)
 [priority]: # (4500)
 
