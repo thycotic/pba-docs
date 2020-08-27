@@ -1,5 +1,5 @@
 [title]: # (Background Worker)
-[tags]: # (Privileged Behavior Analytics,PBA,Background Worker,Cluster)
+[tags]: # (secret server,cluster,environment)
 [priority]: # (3060)
 
 # Background Worker (Clustered Environments)

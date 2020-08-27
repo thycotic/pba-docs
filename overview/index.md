@@ -1,5 +1,5 @@
 ﻿[title]: # (Overview)
-[tags]: # (Privileged Behavior Analytics,PBA,Overview,Architecture,Metadata)
+[tags]: # (architecture,metadata)
 [priority]: # (2000)
 
 # Overview

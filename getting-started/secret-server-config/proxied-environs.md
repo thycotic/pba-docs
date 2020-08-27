@@ -1,5 +1,5 @@
 [title]: # (Proxied Environments)
-[tags]: # (Privileged Behavior Analytics,PBA,Proxied Environments)
+[tags]: # (secret server,configuration,proxy)
 [priority]: # (3040)
 
 # Proxied Environments
