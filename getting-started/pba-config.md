@@ -1,5 +1,5 @@
 ﻿[title]: # (PBA Configuration)
-[tags]: # (Privileged Behavior Analytics,PBA,)
+[tags]: # (secret server,settings)
 [priority]: # (3070)
 
 # Privileged Behavior Analytics Configuration

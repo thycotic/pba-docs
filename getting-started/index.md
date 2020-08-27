@@ -1,5 +1,5 @@
 [title]: # (Getting Started)
-[tags]: # (Privileged Behavior Analytics,PBA,Setup)
+[tags]: # (secret server,setup)
 [priority]: # (3000)
 
 # Getting Started
