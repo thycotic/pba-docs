@@ -1,5 +1,5 @@
 [title]: # (Endpoint Details)
-[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,Endpoint,Details)
+[tags]: # (privilege manager)
 [priority]: # (4590)
 
 # Endpoint Details

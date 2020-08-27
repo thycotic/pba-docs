@@ -1,5 +1,5 @@
 [title]: # (Secret Event Clock)
-[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Secret Event Clock)
+[tags]: # (secret server)
 [priority]: # (4040)
 
 # Secret Event Clock

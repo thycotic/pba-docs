@@ -1,5 +1,5 @@
 [title]: # (Mobile Cache)
-[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Mobile Cache)
+[tags]: # (secret server)
 [priority]: # (4090)
 
 # Mobile Cache

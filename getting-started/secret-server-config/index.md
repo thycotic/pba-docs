@@ -1,5 +1,5 @@
 [title]: # (Secret Server Configuration)
-[tags]: # (Privileged Behavior Analytics,PBA,Secret Server Configuration)
+[tags]: # (secret server,data,metadata,uploader)
 [priority]: # (3020)
 
 # Secret Server Configuration

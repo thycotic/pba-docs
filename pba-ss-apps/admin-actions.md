@@ -1,5 +1,5 @@
 [title]: # (Admin Actions)
-[tags]: # (Privileged Behavior Analytics,PBA,Operations,Admin Actions)
+[tags]: # (secret server)
 [priority]: # (4100)
 
 # Admin Actions

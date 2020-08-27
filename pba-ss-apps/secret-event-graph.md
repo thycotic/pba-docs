@@ -1,5 +1,5 @@
 ﻿[title]: # (Secret Event Graph)
-[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Secret Event Graph)
+[tags]: # (secret server)
 [priority]: # (4050)
 
 # Secret Event Graph

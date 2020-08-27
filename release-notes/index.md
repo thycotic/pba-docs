@@ -1,5 +1,5 @@
 [title]: # (Release Notes)
-[tags]: # (Privileged Behavior Analytics,PBA,Release Notes,Read Me)
+[tags]: # (read me)
 [priority]: # (7000)
 
 # Release Notes

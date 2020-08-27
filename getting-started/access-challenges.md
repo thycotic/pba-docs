@@ -1,5 +1,5 @@
 [title]: # (Access Challenges)
-[tags]: # (Privileged Behavior Analytics,PBA,Access Challenges)
+[tags]: # (secret server,notifications,alerts)
 [priority]: # (3090)
 
 # Access Challenges

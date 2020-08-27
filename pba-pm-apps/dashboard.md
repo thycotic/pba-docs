@@ -1,5 +1,5 @@
 [title]: # (Analytics Dashboard)
-[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,Analytics,Dashboard)
+[tags]: # (privilege manager)
 [priority]: # (4500)
 
 # Privilege Manager Analytics Dashboard

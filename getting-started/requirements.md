@@ -1,5 +1,5 @@
 [title]: # (Requirements)
-[tags]: # (Privileged Behavior Analytics,PBA,)
+[tags]: # (secret server,prerequisites)
 [priority]: # (3010)
 
 # Requirements

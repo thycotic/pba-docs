@@ -1,5 +1,5 @@
 [title]: # (Most Active Secrets)
-[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Most Active,Rank,50 Secrets)
+[tags]: # (secret server)
 [priority]: # (4070)
 
 # Most Active Secrets

@@ -1,5 +1,5 @@
 [title]: # (Application Clock)
-[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,Application Clock)
+[tags]: # (privilege manager)
 [priority]: # (4510)
 
 # Application Clock

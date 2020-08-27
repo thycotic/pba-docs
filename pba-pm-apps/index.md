@@ -1,14 +1,14 @@
-[title]: # (PBA - Privilege Manager Operations)
-[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations)
+[title]: # (PBA Applications for Privilege Manager)
+[tags]: # (overview)
 [priority]: # (4500)
 
-# PBA - Privilege Manager Operations
+# PBA Applications for Privilege Manager
 
 Once you have setup Privilege Manager and Privileged Behavior Analytics to work together, you can begin normal operations. During a typical session with PBA, you will use various tools, including the tools summarized in the table below.
 
 >**Note**: If you are already using PBA for Secret Server, select the Privilege Manager Analytics menu. If you are using PBA for Privilege Manager only, your Privilege Manager Analytics Dashboard opens by default.
 
-![Privilege Manager Operations Overview](images/pm-pba-menu.png "Privilege Manager Operations Overview")
+![PBA for Privilege Manager Applications Menu](images/pm-pba-menu.png "PBA for Privilege Manager Applications Menu")
 
 | Name | Description |
 | ----- | ----- |

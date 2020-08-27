@@ -1,5 +1,5 @@
 ﻿[title]: # (Data Security)
-[tags]: # (Privileged Behavior Analytics,PBA,Overview,Data Security,Metadata)
+[tags]: # (secret server,overview,metadata)
 [priority]: # (2020)
 
 # Secret Server Metadata and PBA Data Security

@@ -1,5 +1,5 @@
 [title]: # (Analytics Dashboard)
-[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Analytics,Dashboard)
+[tags]: # (secret server)
 [priority]: # (4010)
 
 # Dashboard
