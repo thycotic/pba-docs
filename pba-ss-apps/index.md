@@ -1,5 +1,5 @@
 [title]: # (PBA - Secret Server Operations)
-[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations)
+[tags]: # ()
 [priority]: # (4000)
 
 # PBA - Secret Server Operations
@@ -22,5 +22,3 @@ Once you have setup Secret Server and Privileged Behavior Analytics to work toge
 | [User Details](user-details.md) | Allows you to explore in detail information collected about a specific user’s activity |
 | [IP Address Details](ip-addresses-details.md) | Shows IP address activity summary and location information (for Secret Server instances that record user IP) |
 | [Query Builder](querybuilder.md) | Enables data query and export for criteria you specify |
-
-The rest of this section describes these tools.

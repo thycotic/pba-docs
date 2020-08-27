@@ -1,5 +1,5 @@
 [title]: # (Welcome)
-[tags]: # (Privileged Behavior Analytics,PBA,Welcome)
+[tags]: # (pba)
 [priority]: # (1000)
 
 # Welcome to Privileged Behavior Analytics Technical Assistance
@@ -13,9 +13,9 @@ See the [Overview](overview/index.md) for a quick product orientation.
 
 [Getting Started](getting-started/index.md) explains the setup steps required for PBA to work with your Secret Server.
 
-[PBA Operations - Secret Server](pba-operations/index.md) describes how to use PBA for Secret Server during normal daily operations, while [PBA Responsive Actions](pba-responsives/index.md) explains how PBA automates your organization’s response when operations vary from normal.
+[PBA Operations - Secret Server](pba-ss-apps/index.md) describes how to use PBA for Secret Server during normal daily operations, while [PBA Responsive Actions](pba-responsives/index.md) explains how PBA automates your organization’s response when operations vary from normal.
 
-[PBA Operations - Privilege Manager](pm-operations/index.md) describes how to use PBA for Privilege Manager during normal daily operations
+[PBA Operations - Privilege Manager](pba-pm-apps/index.md) describes how to use PBA for Privilege Manager during normal daily operations
 
 [PBA Administration](pba-admin/index.md) details how you should administer PBA so that it becomes ever more attuned to the normal activities flow of your organization, and therefore more effective in detecting anomalies that could indicate increased risk.
 
