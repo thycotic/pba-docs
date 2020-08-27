@@ -77,7 +77,7 @@ The Tools menu also contains two additional data layer options:
 
 Next to the menu buttons is an info icon that launches the **Application IP Map Info** box, which contains basic statistics on the map data displayed, map instructions, and disclaimers.
 
-![IP Map Tools 2](images/app-ipmap-tools2.png, "IP Map Tools 2")
+![IP Map Info](images/app-ipmap-info.png, "IP Map Info")
 
 ## Disclaimers
 
