@@ -1,12 +1,12 @@
 [title]: # (Secret Event Clock)
-[tags]: # (Privileged Behavior Analytics,PBA,Operations,Secret Event Clock)
+[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Secret Event Clock)
 [priority]: # (4040)
 
 # Secret Event Clock
 
-The **Secret Event Clock**, in the Analytics section of PBA, provides a temporal overview of Secret Server activity. It visualizes the distribution and concentration of activities over time for a given time range.
+The **Secret Event Clock**, in the Analytics section of PBA, provides a temporal overview of Secret Server activity. It visualizes the distribution and concentration of activities for a given time range.
 
-![alt](images/20-clock.png)
+![Secret Event Clock](images/20-clock.png "Secret Event Clock")
 
 The coloring of the graphs range from white to dark blue.
 

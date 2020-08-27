@@ -1,15 +1,15 @@
-[title]: # (Dashboard)
-[tags]: # (privilege manager)
-[priority]: # (4510)
-# Privilege Manager Operations Dashboard
+[title]: # (Analytics Dashboard)
+[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,Analytics,Dashboard)
+[priority]: # (4500)
 
-The Dashboard contains high-level summaries and key metrics for Privilege Manager event data and Privileged Behavior Analytics.
+# Privilege Manager Analytics Dashboard
 
-* The menu (top left sub-bar) contains Dashboard layout and customization options.
-* The Day, Week, Month buttons cycle by default but clicking one pauses or restarts the cycle.
-* The left sidebar buttons turn on/off widget boxes on the dashboard.
-* Any changes made to the dashboard layout are automatically saved for the next time you login.
-* All metadata are based on the latest update, which might have a few minutes lag time.
-* Timestamp displays are based on the Local Timezone and Hour Display in System Settings.
+PBA’s **Analytics Dashboard** page collects commonly used tools and views so you can easily recognize anything that would be out of the ordinary for your Privilege Manager environment.
 
-![dashboard](images/dashboard.png "Dashboard Overview")
+![Dashboard Overview](images/dashboard.png "Dashboard Overview")
+
+* Multiple widgets present at-a-glance data visuals that cycle through views of activity for the last day, week, and month.
+* The widgets activate or deactivate when you click the controls for each on the left side of the Dashboard.
+* Cycling pauses on the data view for the last day, week, and month when you click on the Day, Week, and Month controls.
+* Additional settings (dashboard theme, widget settings, cycle duration) are accessible through the three horizontal bars icon on the top left side.
+* The Alerts tile is currently only available for Secret Server. In the left sidebar, click the alert icon to toggle off the tile.

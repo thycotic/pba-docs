@@ -1,5 +1,5 @@
 ﻿[title]: # (Privileged Behavior Alerts)
-[tags]: # (Privileged Behavior Analytics,PBA,Operations,Alerts,Severity,Score,Range,Admin Actions,Temporal Behavior,Historical Behavior)
+[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Alerts,Severity,Score,Range,Admin Actions,Temporal Behavior,Historical Behavior)
 [priority]: # (4020)
 
 # Privileged Behavior Alerts
