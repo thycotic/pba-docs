@@ -1,5 +1,5 @@
 [title]: # (Most Active Applications)
-[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,Most Active,Applications)
+[tags]: # (privilege manager)
 [priority]: # (4550)
 
 # Most Active Applications

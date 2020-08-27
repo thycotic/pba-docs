@@ -1,5 +1,5 @@
 [title]: # (PBA Responsive Actions)
-[tags]: # (Privileged Behavior Analytics,PBA,Responsive Actions)
+[tags]: # (secret server,email,notifications,codehooks,webhooks,challenges)
 [priority]: # (5000)
 
 # PBA Responsive Actions

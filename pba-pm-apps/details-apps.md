@@ -1,5 +1,5 @@
 [title]: # (Application Details)
-[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,Application,Details)
+[tags]: # (privilege manager)
 [priority]: # (4570)
 
 # Application Details

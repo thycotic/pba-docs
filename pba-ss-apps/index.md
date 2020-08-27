@@ -1,8 +1,8 @@
-[title]: # (PBA - Secret Server Operations)
-[tags]: # ()
+[title]: # (PBA Applications for Secret Server)
+[tags]: # (overview)
 [priority]: # (4000)
 
-# PBA - Secret Server Operations
+# PBA Applications for Secret Server
 
 Once you have setup Secret Server and Privileged Behavior Analytics to work together, you can begin normal operations. During a typical session with PBA, you will use various tools, including the tools summarized in the table below.
 

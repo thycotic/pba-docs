@@ -1,5 +1,5 @@
 ﻿[title]: # (User Watch List)
-[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,User Watch List)
+[tags]: # (secret server)
 [priority]: # (4030)
 
 # User Watch List

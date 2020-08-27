@@ -1,5 +1,5 @@
 ﻿[title]: # (Secret Details)
-[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Secret Details)
+[tags]: # (secret server)
 [priority]: # (4110)
 
 # Secret Details

@@ -1,5 +1,5 @@
 [title]: # (Query Builder)
-[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Query,Builder)
+[tags]: # (secret server)
 [priority]: # (4140)
 
 # Query Builder

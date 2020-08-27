@@ -1,5 +1,5 @@
 ﻿[title]: # (Use Case Videos)
-[tags]: # (Privileged Behavior Analytics,PBA,Overview,Architecture,Use Case Videos,)
+[tags]: # (secret server,alert,access,temporal)
 [priority]: # (2030)
 
 # Use Case Videos

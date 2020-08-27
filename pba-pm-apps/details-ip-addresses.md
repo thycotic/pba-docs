@@ -1,5 +1,5 @@
 [title]: # (IP Address Details)
-[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,IP Address,Details)
+[tags]: # (privilege manager)
 [priority]: # (4610)
 
 # IP Address Details

@@ -1,5 +1,5 @@
 [title]: # (Policy Details)
-[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,Policy,Details)
+[tags]: # (privilege manager)
 [priority]: # (4600)
 
 # Policy Details

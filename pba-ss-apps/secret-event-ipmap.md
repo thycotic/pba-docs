@@ -1,5 +1,5 @@
 [title]: # (Secret Event IP Map)
-[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,Secret Event IP Map)
+[tags]: # (secret server)
 [priority]: # (4060)
 
 # Secret Event IP Map

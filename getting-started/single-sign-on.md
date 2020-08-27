@@ -1,5 +1,5 @@
 [title]: # (Single Sign-On)
-[tags]: # (Privileged Behavior Analytics,PBA,Single Sign-On)
+[tags]: # (secret server,sso)
 [priority]: # (3080)
 
 # Single Sign-On (Version 10.4 and Later, Cloud)

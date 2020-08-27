@@ -1,5 +1,5 @@
 [title]: # (IP Address Details)
-[tags]: # (Secret Server,Privileged Behavior Analytics,PBA,Operations,IP Address,Details)
+[tags]: # (secret server)
 [priority]: # (4130)
 
 # IP Address Details

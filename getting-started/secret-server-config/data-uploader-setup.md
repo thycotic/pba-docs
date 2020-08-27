@@ -1,5 +1,5 @@
 ﻿[title]: # (Data Uploader Setup)
-[tags]: # (Privileged Behavior Analytics,PBA,Data Uploader)
+[tags]: # (secret server)
 [priority]: # (3030)
 
 # Data Uploader Setup Steps

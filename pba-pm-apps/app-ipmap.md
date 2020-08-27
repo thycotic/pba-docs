@@ -1,5 +1,5 @@
 [title]: # (IP Map)
-[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,Application IP Map)
+[tags]: # (privilege manager)
 [priority]: # (4540)
 
 # Application IP Map

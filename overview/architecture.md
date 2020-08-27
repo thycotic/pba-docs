@@ -1,5 +1,5 @@
 ﻿[title]: # (Architecture)
-[tags]: # (Privileged Behavior Analytics,PBA,Overview,Architecture,Metadata)
+[tags]: # (secret server,overview,metadata)
 [priority]: # (2010)
 
 # Architecture

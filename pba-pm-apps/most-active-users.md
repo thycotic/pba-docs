@@ -1,5 +1,5 @@
 [title]: # (Most Active Users)
-[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,Most Active,Users)
+[tags]: # (privilege manager)
 [priority]: # (4560)
 
 # Most Active Users

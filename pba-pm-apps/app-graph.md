@@ -1,5 +1,5 @@
 [title]: # (Application Graph)
-[tags]: # (Privilege Manager,Privileged Behavior Analytics,PBA,Operations,Application Graph)
+[tags]: # (privilege manager)
 [priority]: # (4520)
 
 # Application Graph
