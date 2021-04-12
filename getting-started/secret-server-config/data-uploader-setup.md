@@ -4,7 +4,7 @@
 
 # Data Uploader Setup Steps
 
-Privileged Behavior Analytics (PBA) processes event data from Secret Server using a data upload. The Data Uploader setup steps depend on your Secret Server version.
+Privileged Behavior Analytics (PBA) processes event data from Secret Server using a data upload.
 
 Integrating Secret Server and PBA requires an **Integration Key**. This key:  
 * contains the secret access key and other parameters for uploading data to Thycotic PBA.
