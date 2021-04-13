@@ -8,7 +8,7 @@ This topic provides a chronological list of documentation changes, to help track
 August 2020:
 
 * Added [Privilege Manager](https://thy.center/pba/link/PrivManPBASetup) integration information.
-* Added [Release Notes](2020-august-20.md) for the August 20th release.
+* Added [Release Notes](2020-aug-20.md) for the August 20th release.
 
 June 2020:
 

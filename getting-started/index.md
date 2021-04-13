@@ -7,7 +7,7 @@
 To get started using Privileged Behavior Analytics:
 
 1. Make sure you have the [required](requirements.md) Secret Server version.
-1. [Configure Secret Server](secret-server-config.md).
+1. [Configure Secret Server](secret-server-config/index.md).
 1. [Configure PBA](pba-config.md)
 1. Set up [Single Sign-On](single-sign-on.md)
 1. Set up [Access Challenges](access-challenges.md)
