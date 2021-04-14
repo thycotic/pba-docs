@@ -26,7 +26,7 @@ The icon to the left of the menu buttons will toggle the Graph between light and
 
 The Filters menu (three horizontal lines button) provides options to limit the number of nodes and links displayed.
 
-![Graph Filters](images/app-graph-filters.jpg "Graph Filters")
+![Graph Filters](images/app-graph-filters.png "Graph Filters")
 
 * **OR AND Filter**: determines how filters will be applied to the Graph
 * **Filter by selected**: lets you filter the Graph display by Application, User, Endpoint, Group, IP Address (and City, Region, Country), or Policy
