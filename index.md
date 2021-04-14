@@ -4,11 +4,6 @@
 
 # Welcome to Privileged Behavior Analytics Technical Assistance
 
-Thycotic created this collection of short-form technical materials to quickly and directly connect you with answers to your PBA questions. We aim to conserve your time by applying brevity and focus at every turn.
-
-* When you have a specific topic in mind, the search tool at upper right will be your quickest path to relevant articles.
-* For browsing, the Navigation Panel (menus at left) pulls together articles giving a solid grounding in Privileged Behavior Analytics.
-
 See the [Overview](overview/index.md) for a quick product orientation.
 
 [Getting Started](getting-started/index.md) explains the setup steps required for PBA to work with your Secret Server.

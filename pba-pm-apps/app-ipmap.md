@@ -71,13 +71,13 @@ The Tools menu also contains two additional data layer options:
 * **Alert Indicators** show red triangles for IP addresses that have active alerts or warnings. Clicking on a triangle will show details on the number of alerts and total risk score.
 * **Country Counts** show a semi-transparent layer shaded by the number of events taking place in each country. Clicking on a country will re-zoom the map to the selected country, and hovering the mouse over it will show the country name, flag, and number of events.
 
-![IP Map Tools](images/app-ipmap-tools.png, "IP Map Tools")
+![IP Map Tools](images/app-ipmap-tools.png "IP Map Tools")
 
 ## Application IP Map Info
 
 Next to the menu buttons is an info icon that launches the **Application IP Map Info** box, which contains basic statistics on the map data displayed, map instructions, and disclaimers.
 
-![IP Map Info](images/app-ipmap-info.png, "IP Map Info")
+![IP Map Info](images/app-ipmap-info.png "IP Map Info")
 
 ## Disclaimers
 
